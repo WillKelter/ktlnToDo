@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ktlnToDo</string>
+    <string name="tasks">Задачи</string>
+    <string name="noTasks">У вас нет задач</string>
+</resources>
